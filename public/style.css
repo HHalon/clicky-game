@@ -1,0 +1,82 @@
+.body {
+    margin: 0;
+}
+
+.navbar {
+    background-color: #05A3FF;
+    position: fixed;
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+}
+
+.navbar > img {
+    align-content: center;
+}
+.title {
+    margin: 40px;
+    font-size: 30px;
+    float: left;
+    color: white;
+}
+
+
+.scores{
+    margin:40px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    float: left;
+}
+
+.total{
+    margin: 40px;
+    color: white;
+    float: left;
+}
+
+.main{
+    padding: 125px;
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg);
+    text-align: center;
+    color: white;
+    
+
+}
+
+.banner{
+    text-align: center;
+    color: white
+}
+
+.banner > h4{
+    text-align: center;
+    color: white
+}
+
+.instruction{
+    color:white;
+    text-align: center
+}
+
+.footer{
+    padding: 15px;
+    color:white;
+    background-color: #05A3FF
+}
+
+.card {
+    background: #fff;
+    border-radius: 2px;
+    height: 325px;
+    margin: 1rem;
+    position: relative;
+    width: 325px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+  }
+  
+  .image {
+    height: 20%;
+    overflow: hidden;
+    text-align: center;
+    background:#6CADDC;
+  }
