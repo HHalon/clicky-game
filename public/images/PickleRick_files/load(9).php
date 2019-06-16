@@ -1,0 +1,3 @@
+var ShowHideConfig={autoCollapse:2};;importArticles({type:'script',articles:['u:dev:AjaxBatchDelete/code.js','u:dev:DupImageList/code.js','u:dev:SocialIcons/code.js','MediaWiki:Wikia.js/inputUserInformation.js','u:halo:MediaWiki:Wikia.js/Slider.js']});var SocialMediaButtons={position:"top",colorScheme:"color"};cacheSkip=[];cacheSkipLimit=5000;AjaxRCRefreshText='Auto-refresh';AjaxRCRefreshHoverText='Automatically refresh the page';importScriptPage('AjaxRC/code.js','dev');var ajaxPages=["Special:RecentChanges","Special:WikiActivity"];;;mw.loader.state({"site":"ready"});
+
+/* cache key: rickandmorty292:resourceloader:filter:minify-js:7:2426d9a54251a549327fb7ea49349929 */

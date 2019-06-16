@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "shake": 10,
+         "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/1/19/Pickle_rick_transparent.png/revision/latest?cb=20171025014216" 
+         
+    },
+    {
+        "id": 2,
+        "shake": 10,
+         "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png/revision/latest?cb=20160923150728" 
+    },
+    {
+        "id": 3,
+        "shake": 10,
+         "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/4/41/Morty_Smith.jpg/revision/latest?cb=20170217193441" 
+    },
+    {
+        "id": 4,
+        "shake": 10,
+         "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/5/58/Beth_Smith.png/revision/latest?cb=20151204220729" 
+    },
+    {
+        "id":5,
+        "shake": 10,
+         "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/a/ad/Summer_is_cool.jpeg/revision/latest?cb=20160919183158" 
+    },
+    {
+        "id": 6,
+        "shake": 10,
+         "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/f/f1/Jerry_Smith.png/revision/latest?cb=20160923151111" 
+    },
+    {
+        "id": 7,
+        "shake": 10,
+        
+         "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/d/d7/Ghost_in_a_Jar_Picture.png/revision/latest?cb=20170131020036" 
+    },
+    {
+        "id": 8,
+        "shake": 10,
+         "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/6/6c/MeeseeksHQ.png/revision/latest?cb=20150930232412" 
+    },
+    {
+        "id": 9,
+        "shake": 10,
+         "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/c/c1/Megafruitfarmerrick.png/revision/latest?cb=20170913214933" 
+    },
+    {
+        "id": 10,
+        "shake": 10,
+         "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/1/16/Squanchy_.png/revision/latest?cb=20160830140218" 
+    },
+    {
+        "id": 11,
+        "shake": 10,
+         "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/3/30/Supernova.png/revision/latest?cb=20170911072924" 
+    },
+    {
+        "id": 12,
+        "shake": 10,
+         "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/e/e2/Goddess_Beth.jpg/revision/latest/scale-to-width-down/1000?cb=20151007011958" 
+    }
+
+]
